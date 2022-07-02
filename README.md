@@ -14,4 +14,5 @@ Below is example image snippets I created for decoding neuron data from splittin
 ![Image 1](pdf_sols/Snippets/p6.PNG)
 ![Image 1](pdf_sols/Snippets/p8.PNG)
 ![Image 1](pdf_sols/Snippets/p11.PNG)
+Kallman Filter Decoded Movements
 ![Image 1](pdf_sols/Snippets/p10.PNG)
